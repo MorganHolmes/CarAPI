@@ -1,0 +1,48 @@
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\Cosmos.CRTCompat.dll
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.deps.json
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.runtimeconfig.json
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.runtimeconfig.dev.json
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.dll
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.pdb
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.Views.dll
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.Views.pdb
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.csprojAssemblyReference.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorAssemblyInfo.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorAssemblyInfo.cs
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.AssemblyInfoInputs.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.AssemblyInfo.cs
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.TagHelpers.input.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.TagHelpers.output.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorCoreGenerate.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorTargetAssemblyInfo.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorTargetAssemblyInfo.cs
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.Views.pdb
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.dll
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.pdb
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.csproj.CopyComplete
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Morgan\Downloads\ICPAPI-master\ICPAPI-master\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\Cosmos.CRTCompat.dll
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.deps.json
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.runtimeconfig.json
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.runtimeconfig.dev.json
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.dll
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.pdb
+E:\Hard Drive Documents\Car Data API\Car Data API\bin\Debug\netcoreapp2.2\starter-dotnet-core-mvc.Views.dll
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.csprojAssemblyReference.cache
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.csproj.CoreCompileInputs.cache
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorAssemblyInfo.cache
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorAssemblyInfo.cs
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.AssemblyInfoInputs.cache
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.AssemblyInfo.cs
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.RazorTargetAssemblyInfo.cache
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.dll
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.pdb
+E:\Hard Drive Documents\Car Data API\Car Data API\obj\Debug\netcoreapp2.2\starter-dotnet-core-mvc.csproj.CopyComplete
